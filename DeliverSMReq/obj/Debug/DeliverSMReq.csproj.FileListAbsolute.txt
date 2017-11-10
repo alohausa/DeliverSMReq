@@ -1,0 +1,6 @@
+C:\Users\Enoch Cho\source\repos\DeliverSMReq\DeliverSMReq\bin\DeliverSMReq.dll.config
+C:\Users\Enoch Cho\source\repos\DeliverSMReq\DeliverSMReq\bin\DeliverSMReq.dll
+C:\Users\Enoch Cho\source\repos\DeliverSMReq\DeliverSMReq\bin\DeliverSMReq.pdb
+C:\Users\Enoch Cho\source\repos\DeliverSMReq\DeliverSMReq\obj\Debug\DeliverSMReq.csproj.CoreCompileInputs.cache
+C:\Users\Enoch Cho\source\repos\DeliverSMReq\DeliverSMReq\obj\Debug\DeliverSMReq.dll
+C:\Users\Enoch Cho\source\repos\DeliverSMReq\DeliverSMReq\obj\Debug\DeliverSMReq.pdb
